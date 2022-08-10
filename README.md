@@ -1,6 +1,11 @@
 # Simple Image Classifier
 
-I have no experience with machine learning.
+Learn more about machine learning by building a simple image classifier.
+
+## Getting Started
+
+1. Clone this repo or create a new codespace
+2. Check out `image-classifier.ipynb`
 
 ## Built With
 
