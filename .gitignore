@@ -1,2 +1,8 @@
+# dataset
 data
+
+# saved model
 cifar_net.pth
+
+# checkpoints
+.ipynb_checkpoints
