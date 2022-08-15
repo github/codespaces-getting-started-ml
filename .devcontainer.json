@@ -8,6 +8,6 @@
 		}
 	},
 	"features": {
-		// CUDA feature
+		// "ghcr.io/devcontainers/features/nvidia-cuda": {}
 	}
 }
