@@ -6,5 +6,8 @@
 				"ms-toolsai.jupyter"
 			]
 		}
+	},
+	"features": {
+		// CUDA feature
 	}
 }
