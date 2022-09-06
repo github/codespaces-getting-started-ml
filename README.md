@@ -1,6 +1,6 @@
 # Simple Image Classifier
 
-Learn more about machine learning by building a simple image classifier.
+Learn more about machine learning by building a simple image classifier. For more information, see "[Getting started with GitHub Codespaces for machine learning](https://docs.github.com/en/codespaces/developing-in-codespaces/getting-started-with-github-codespaces-for-machine-learning)."
 
 ## Getting Started
 
